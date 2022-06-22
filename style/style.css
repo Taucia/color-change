@@ -1,0 +1,59 @@
+ #container{
+        display: flex;
+        justify-content: center;
+        width: 380px;
+        height:380px;
+        background-color: black;
+        color: black;
+        border-radius: 310px;
+        color: purple;
+        border: 4px solid purple;
+        align-items: center;
+    }
+    body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    }
+   
+    #hex{
+        margin-top: 10%;
+       color:purple;
+    }
+    #Color{
+        color: red;
+    }
+    #Blue{
+        color: blue;
+        margin-left: 3%;
+    }
+    #Green{
+        color:green;
+    }
+    #Button{
+        width:110%;
+        margin-top: 5%;
+        height: 40px;
+        border-radius: 50px;
+        color: black;
+        background-color:purple;
+        box-shadow: 0vw 0vw 1vw purple;
+        border: none;
+    }
+    #Output{
+        background-color: white;
+         height: 70px;
+         width: 245.65;
+    }
+    #Head{
+        text-shadow: 0vw 0vw 1vw purple ;
+    }
+    #color{
+        border-radius: 10px;
+        height:30px;
+    }
+    #Name{
+        border-radius: 10px;
+        height:30px;
+    }
